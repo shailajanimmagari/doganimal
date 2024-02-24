@@ -7,3 +7,5 @@ class Dog:
 
     def bark(self):
         print("I can Bark")
+    def drink(self):
+        print("I can Drink")    
